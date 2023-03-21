@@ -1,0 +1,109 @@
+
+
+
+
+[
+    {
+      "id": 1,
+      "name": "United States",
+      "capital": "Washington D.C.",
+      "population": 331002651,
+      "flag": "https://restcountries.com/data/usa.svg",
+      "region": "Americas"
+    },
+    {
+      "id": 2,
+      "name": "Canada",
+      "capital": "Ottawa",
+      "population": 38005238,
+      "flag": "https://restcountries.com/data/can.svg",
+      "region": "Americas"
+    },
+    {
+      "id": 3,
+      "name": "United Kingdom",
+      "capital": "London",
+      "population": 67886011,
+      "flag": "https://restcountries.com/data/gbr.svg",
+      "region": "Europe"
+    },
+    {
+      "id": 4,
+      "name": "France",
+      "capital": "Paris",
+      "population": 65273511,
+      "flag": "https://restcountries.com/data/fra.svg",
+      "region": "Europe"
+    },
+    {
+      "id": 5,
+      "name": "Germany",
+      "capital": "Berlin",
+      "population": 83783942,
+      "flag": "https://pixabay.com/photos/parliament-berlin-1358937/j.png",
+      "region": "Europe"
+    },
+    {
+      "id": 6,
+      "name": "Spain",
+      "capital": "Madrid",
+      "population": 46754778,
+      "flag": "https://restcountries.com/data/esp.svg",
+      "region": "Europe"
+    },
+    {
+      "id": 7,
+      "name": "Italy",
+      "capital": "Rome",
+      "population": 60461828,
+      "flag": "https://restcountries.com/data/ita.svg",
+      "region": "Europe"
+    },
+    {
+      "id": 8,
+      "name": "Japan",
+      "capital": "Tokyo",
+      "population": 126476461,
+      "flag": "https://restcountries.com/data/jpn.svg",
+      "region": "Asia"
+    },
+    {
+      "id": 9,
+      "name": "China",
+      "capital": "Beijing",
+      "population": 1403500365,
+      "flag": "https://restcountries.com/data/chn.svg",
+      "region": "Asia"
+    },
+    {
+      "id": 10,
+      "name": "India",
+      "capital": "New Delhi",
+      "population": 1380004385,
+      "flag": "https://restcountries.com/data/ind.svg",
+      "region": "Asia"
+    },
+    {
+      "id": 11,
+      "name": "Brazil",
+      "capital": "Brasília",
+      "population": 212559417,
+      "flag": "https://restcountries.com/data/bra.svg",
+      "region": "Americas"
+    },
+    {
+      "id": 12,
+      "name": "Mexico",
+      "capital": "Mexico City",
+      "population": 128932753,
+      "flag": "https://restcountries.com/data/mex.svg",
+      "region": "Americas"
+    }
+]
+
+   
+
+
+
+
+
